@@ -1,0 +1,8 @@
+{
+  "browser_type": "Chrome",
+  "chrome_executable_path": "/Libraries/chromedriver_linux64/chromedriver",
+  "username":"",
+  "password":"",
+  "base_url": "https://core.mednfo.com/admin/index.php",
+  "comment":"Automatically canceled."
+}
