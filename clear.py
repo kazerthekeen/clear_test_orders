@@ -129,7 +129,7 @@ class driver_manager:
         return self.driver.get_cookies()
 
 
-def load_settings(file_name="/home/kazer/Programs/clear-test-orders/config.json"):
+def load_settings(file_name="config.json"):
     with open(file_name, "r") as file:
         s = file.read()
     settings = json.loads(s)
